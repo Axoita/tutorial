@@ -1,0 +1,16 @@
+[
+{
+  "modid": "autism",
+  "name": "Autism",
+  "description": "Mod about autism.",
+  "version": "{1.0}",
+  "mcversion": "{1.12.2}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Axoita"],
+  "credits": "Axoita for doing things",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

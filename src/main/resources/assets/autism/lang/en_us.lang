@@ -1,0 +1,9 @@
+
+//items
+item.ruby.name=Ruby
+item.sapphire.name=Sapphire
+
+//blocks
+tile.ruby_block.name=Block of Ruby
+tile.sapphire_block.name=Block of Sapphire
+tile.ruby_ore.name=Ruby Ore
